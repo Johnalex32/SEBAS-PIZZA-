@@ -1,0 +1,29 @@
+.container-menu {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(#00001047, #000022d9), url(/Proyecto-Restaurante-main/View/img/fondoIndex.jpeg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    gap: 2rem;
+}
+
+.encabezado {
+    margin-top: 1em;  
+}
+
+.menu { 
+    font-family: "Alfa Slab One", serif;
+    color:black; 
+}
+
+.cajon2{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: gray;
+    padding: 0.1rem;
+}
