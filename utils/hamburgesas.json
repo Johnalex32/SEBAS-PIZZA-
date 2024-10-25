@@ -1,0 +1,55 @@
+{
+    "hamburguesas": [
+      {
+        "title": "Clásica",
+        "ingredientes": ["Carne de res", "Lechuga", "Tomate", "Cebolla", "Mayonesa", "Pan"],
+        "description": "Una hamburguesa clásica con ingredientes frescos."
+      },
+      {
+        "title": "Doble Queso",
+        "ingredientes": ["Carne de res", "Queso cheddar", "Queso suizo", "Cebolla caramelizada", "Pan de ajonjolí"],
+        "description": "Doble queso y una jugosa carne de res."
+      },
+      {
+        "title": "Pollo BBQ",
+        "ingredientes": ["Pollo a la parrilla", "Salsa BBQ", "Cebolla frita", "Pepinillos", "Pan"],
+        "description": "Hamburguesa de pollo con una deliciosa salsa BBQ."
+      },
+      {
+        "title": "Vegetariana",
+        "ingredientes": ["Hamburguesa de garbanzos", "Lechuga", "Tomate", "Aguacate", "Mayonesa vegana", "Pan integral"],
+        "description": "Una opción vegetariana llena de sabor y frescura."
+      },
+      {
+        "title": "Tex Mex",
+        "ingredientes": ["Carne de res", "Queso cheddar", "Guacamole", "Salsa pico de gallo", "Jalapeños", "Pan"],
+        "description": "Hamburguesa estilo Tex-Mex con un toque picante."
+      },
+      {
+        "title": "Tocino y Queso",
+        "ingredientes": ["Carne de res", "Queso cheddar", "Tocino", "Lechuga", "Tomate", "Pan de brioche"],
+        "description": "Clásica hamburguesa con tocino crujiente y queso cheddar."
+      },
+      {
+        "title": "Blue Cheese",
+        "ingredientes": ["Carne de res", "Queso azul", "Cebolla caramelizada", "Espinacas", "Pan de centeno"],
+        "description": "Hamburguesa gourmet con queso azul y cebolla caramelizada."
+      },
+      {
+        "title": "Picanha",
+        "ingredientes": ["Carne de picanha", "Queso suizo", "Cebolla morada", "Salsa de ajo", "Pan"],
+        "description": "Hamburguesa con carne de picanha y salsa especial de ajo."
+      },
+      {
+        "title": "Chili Cheese",
+        "ingredientes": ["Carne de res", "Queso cheddar", "Chili con carne", "Cebolla picada", "Pan de maíz"],
+        "description": "Hamburguesa con chili con carne y queso derretido."
+      },
+      {
+        "title": "Portobello",
+        "ingredientes": ["Hongo portobello a la parrilla", "Queso de cabra", "Rúcula", "Tomate seco", "Pan integral"],
+        "description": "Hamburguesa de hongo portobello con queso de cabra y tomate seco."
+      }
+    ]
+  }
+  
