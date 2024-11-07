@@ -267,3 +267,36 @@
 }    
 
 
+/*********************BEBIDAS**************************/
+.container-bebidas {
+    width: 100%;
+    height: 230vh;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    
+}
+.containerbebidas{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 100%;
+    height: 350px;
+    gap: .5rem;
+    background: #00000078;
+}
+
+.cardImgbebidas{
+    display: flex;
+    width: 60%;
+    height: 275px;
+    justify-content: center;
+    padding: 1rem;
+}
+
+
+.imgbebidas{
+    width: 280px; 
+    height: 325px;
+}
